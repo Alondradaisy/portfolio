@@ -1,6 +1,12 @@
 img {
   width: 300px;
 }
-ol {
-  font-style: bold;
+.important {
+  color: #419fd1;
+}
+.container {
+  color: #419fd1;
+}
+h2 {
+  text-align: center;
 }
