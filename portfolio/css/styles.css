@@ -1,5 +1,6 @@
 img {
   width: 300px;
+  image-rendering: center;
 }
 .important {
   color: #419fd1;
@@ -7,6 +8,21 @@ img {
 .container {
   color: #419fd1;
 }
-h2 {
+h1, h2, h3 {
   text-align: center;
+  color: #419fd1
+}
+.jumbotron {
+  width: normal;
+}
+p {
+  color: #419fd1;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.highlight {
+  color: grey;
 }
