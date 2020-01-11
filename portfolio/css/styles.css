@@ -1,9 +1,13 @@
 img {
   width: 300px;
   image-rendering: center;
+  float: right;
+  padding: 10px;
+  border: 2px grey;
 }
 .important {
   color: #419fd1;
+  
 }
 .container {
   color: #419fd1;
