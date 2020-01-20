@@ -1,4 +1,4 @@
-# _Portfolio_
+# _Alondra Daisy's Portfolio_
 
 #### _This portfolio provides an overview of projects I've worked on during the first week at Epicodus, January 2020._
 
