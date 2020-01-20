@@ -1,6 +1,6 @@
 # _Portfolio_
 
-#### _This portfolio provides an overview of projects I've worked on during the first week at Epicodus, January 2020_
+#### _This portfolio provides an overview of projects I've worked on during the first week at Epicodus, January 2020._
 
 #### By _**Alondra Daisy Warren**_
 
@@ -10,6 +10,9 @@ _This portfolio serves as a space to review and reflect on work I've done during
 
 ## Setup/Installation Requirements
 
+* _Copy Github repostory link from the sumission box_
+* _Paste the copied link into the terminal after the command 'git clone' + Github link_
+* _Next, type in the command 'code .' to open the cloned repository into the VS Code editor_
 * _Open a web browser_
 * _Type in and head to html link_
 * _Open the webpage and scroll through portfolio_
@@ -26,7 +29,7 @@ _If you run into any questions, comments or concerns, do not hesitate to contact
 
 ## Technologies Used
 
-_Tell me about the languages and tools you used to create this app. HTML, CSS, Bootstrap & Markdown._
+_HTML, CSS, Bootstrap & Markdown._
 
 ### License
 
