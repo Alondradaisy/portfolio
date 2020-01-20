@@ -8,6 +8,9 @@
 
 _This portfolio serves as a space to review and reflect on work I've done during the first week at Epicodus. In this portfolio, you will find a section about Alondra Daisy, a photo, her background, and the work she has produced through daily projects. You'll find the projects listed toward the top of the site, and down below that, you'll see that they are ordered in the list of sequence that they were worked on. Links to their Github repositories and descriptions will be provided to give the user easy access to review the projects._
 
+## GH Pages 
+* _https://github.com/Alondradaisy/portfolio.git_
+
 ## Setup/Installation Requirements
 
 * _Copy Github repostory link from the sumission box_
